@@ -1,4 +1,4 @@
-### 🇫🇷 Hi, I'm SUP2Ak ! 🇫🇷
+### :fr: Hi, I'm SUP2Ak ! :fr:
 
 - I’m currently working on FiveM
 - I’m currently learning JavaScript
