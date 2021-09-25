@@ -1,4 +1,4 @@
-### Hi, I'm SUP2ak, a french Developper!
+### Hi, I'm SUP2Ak, a french Developper!
 
 - 🔭 I’m currently working on FiveM
 - 📚 I’m currently learning JavaScript
