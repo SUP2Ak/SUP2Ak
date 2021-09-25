@@ -11,4 +11,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SUP2Ak&theme=highcontrast&show_icons=true&count_private=true)
 
+![GitHub stats Languages](https://github-readme-stats.vercel.app/api?username=SUP2Ak)
+
+
 
