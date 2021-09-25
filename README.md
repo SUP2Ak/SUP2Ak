@@ -1,7 +1,7 @@
-### Hi, I'm SUP2Ak, a french Developper!
+### 🇫🇷 Hi, I'm SUP2Ak ! 🇫🇷
 
-- 🔭 I’m currently working on FiveM
-- 📚 I’m currently learning JavaScript
+- I’m currently working on FiveM
+- I’m currently learning JavaScript
 
 🔵 Join my discord ! : https://discord.gg/hYCR2YKgxB
 
