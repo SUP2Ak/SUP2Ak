@@ -9,7 +9,7 @@
 
 📺 Follow my Youtube ! : https://www.youtube.com/SUPAAkHD
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=SUP2Ak&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=SUP2Ak&show_icons=true&theme=radical)
 
 ![GitHub stats Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SUP2Ak&layout=compact)
 
