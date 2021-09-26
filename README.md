@@ -13,7 +13,7 @@
 
 ![GitHub stats Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SUP2Ak&layout=compact&theme=radical)
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SUP2Ak&repo=SUP2Ak&show_owner=true&theme=radical)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SUP2Ak&repo=spk_serverSetting&show_owner=true&theme=radical)
 
 
 
