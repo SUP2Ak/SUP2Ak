@@ -15,6 +15,7 @@
 
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SUP2Ak&repo=spk_serverSetting&show_owner=true&theme=radical)
 
-![](https://komarev.com/ghpvc/?username=SUP2Ak&color= brightgreen)
+![](https://komarev.com/ghpvc/?username=SUP2Ak&color=brightgreen)
+
 
 
