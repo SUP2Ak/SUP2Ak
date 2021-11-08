@@ -20,4 +20,4 @@
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SUP2Ak&repo=spk_core&show_owner=true&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=SUP2Ak&color=brightgreen)
-[![Total Downloads](http://poser.pugx.org/phpunit/phpunit/downloads)](https://packagist.org/packages/phpunit/phpunit)
+[![Total Downloads](http://poser.pugx.org/SUP2Ak/spk_core/downloads)](https://packagist.org/packages/SUP2Ak/spk_core)
