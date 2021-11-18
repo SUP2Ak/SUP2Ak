@@ -17,7 +17,7 @@
 
 ![GitHub stats Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SUP2Ak&layout=compact&theme=radical)
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SUP2Ak&repo=spk_core&show_owner=true&theme=radical)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SUP2Ak&repo=spk_shops&show_owner=true&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=SUP2Ak&color=brightgreen)
 [![Total Downloads](http://poser.pugx.org/SUP2Ak/spk_core/downloads)](https://packagist.org/packages/SUP2Ak/spk_core)
