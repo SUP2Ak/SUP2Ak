@@ -10,8 +10,7 @@
 📺 Follow my Youtube ! : https://www.youtube.com/SUPAAkHD
 
 #### [FiveM] :
-- spk_ = ESX Framework
-- sup_ = SUPV Framework 
+- link tebex soon
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SUP2Ak&show_icons=true&theme=radical)
 
