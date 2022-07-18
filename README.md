@@ -15,7 +15,9 @@
 ____
          
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=SUP2Ak&theme=react&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=SUP2Ak&theme=gotham&show_icons=true" />
+</div>
+<div align="center">
     <img align="center" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=SUP2Ak&theme=gotham&layout=default&show_icons=true" />
 </div>
 
