@@ -15,8 +15,6 @@
 ____
          
 <table>
-  <tr>
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=SUP2Ak&theme=dark&show_icons=true" />
-      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=SUP2Ak&theme=dark&layout=default&show_icons=true" />
-  </tr>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=SUP2Ak&theme=dark&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=SUP2Ak&theme=dark&layout=default&show_icons=true" />
 </table>
