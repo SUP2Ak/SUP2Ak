@@ -3,6 +3,14 @@ ____
       
 <h1 align="center">Hi, I'm SUP2Ak</h1>
 
+
+<div align="center">
+  <a align="center" href="https://discords.com/bio/p/sup2ak" target="_blank">
+    <img align="center" src="https://discord.c99.nl/widget/theme-3/813886677142994994.png"/>
+  </a>
+</div>
+
+
 ____
       
 - I'm french :fr:
