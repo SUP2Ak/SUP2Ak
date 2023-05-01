@@ -1,7 +1,7 @@
 
 ____
       
-<h1 align="center">Hi, I'm SUP2Ak (soone update)</h1>
+<h1 align="center">Hi, I'm SUP2Ak (soon update)</h1>
 
 
 <div align="center">
