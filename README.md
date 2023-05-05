@@ -24,8 +24,8 @@ ____
 ____
          
 <div align="center" display='flex'>
-     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/?username=SUP2Ak&theme=gotham&show_icons=true" /><p><img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sup2ak&theme=gotham&layout=default&show_icons=true" alt="sup2ak" />
-</p><img align="center" width="30%" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=SUP2Ak&theme=gotham&layout=default&show_icons=true" />
+     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/?username=SUP2Ak&theme=gotham&show_icons=true" /><p><img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=sup2ak&theme=gotham&layout=default&show_icons=true" alt="sup2ak" /></p>
+<img align="center" width="30%" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=SUP2Ak&theme=gotham&layout=default&show_icons=true" />
       
 </div>
 <div align="center">
