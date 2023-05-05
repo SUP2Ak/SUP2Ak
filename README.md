@@ -26,10 +26,10 @@ ____
 <div align="center" display='flex'>
      <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/?username=SUP2Ak&theme=gotham&show_icons=true" /><p><img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=sup2ak&theme=gotham&layout=default&show_icons=true" alt="sup2ak" /></p>   
 </div>
-<div align="center">
-<img align="center" width="30%" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=SUP2Ak&theme=gotham&layout=default&show_icons=true" />
-</div>
+<div align="center"> <img width="30%" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=SUP2Ak&theme=gotham&layout=default&show_icons=true" /></div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sup2ak&label=Profile%20views&color=0e75b6&style=flat" alt="sup2ak" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sup2ak" alt="sup2ak" /></a> </p>
 ____
         
 <p align="center"><a href="https://discord.gg/hYCR2YKgxB">
@@ -37,9 +37,7 @@ ____
     </a></p>
 <p align="center"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fach-git"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fach-git&labelColor=%23333333&countColor=%23ba68c8&style=flat" /></a></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sup2ak&label=Profile%20views&color=0e75b6&style=flat" alt="sup2ak" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sup2ak" alt="sup2ak" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
