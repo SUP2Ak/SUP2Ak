@@ -12,15 +12,15 @@ ____
 
 
 ____
+
+<div align='right' display='flex'>
+      <a align="right" display='flex' position='right' href="https://app.daily.dev/SUP2Ak"><img src="https://api.daily.dev/devcards/daf15bdb03fc4f64ac7b98d6d3a4401f.png?r=mx2" width="30%" alt="SUP2Ak's Dev Card"/></a>
+</div>
       
 - I'm french :fr:
 - I’m currently working on FiveM, Discord, Unity...
 - Language I use : Lua, JavaScript, Html, TypeScript, C#
 - I’m currently learning C, C++, TypeScript
-
-<div align='right' display='flex'>
-      <a align="right" display='absolute' position='right' href="https://app.daily.dev/SUP2Ak"><img src="https://api.daily.dev/devcards/daf15bdb03fc4f64ac7b98d6d3a4401f.png?r=mx2" width="30%" alt="SUP2Ak's Dev Card"/></a>
-</div>
 
 💻 Join my discord ! : https://discord.gg/hYCR2YKgxB
 
