@@ -18,6 +18,8 @@ ____
 - Language I use : Lua, JavaScript, Html, TypeScript, C#
 - I’m currently learning C, C++, TypeScript
 
+<a align="right" display='flex' href="https://app.daily.dev/SUP2Ak"><img src="https://api.daily.dev/devcards/daf15bdb03fc4f64ac7b98d6d3a4401f.png?r=mx2" width="30%" alt="SUP2Ak's Dev Card"/></a>
+
 💻 Join my discord ! : https://discord.gg/hYCR2YKgxB
 
 📷 Follow my Twitch ! : https://www.twitch.tv/sup2ak_hd
@@ -27,7 +29,7 @@ ____
 ____
          
 <div align="center" display='flex'>
-      <a align="right" href="https://app.daily.dev/SUP2Ak"><img src="https://api.daily.dev/devcards/daf15bdb03fc4f64ac7b98d6d3a4401f.png?r=mx2" width="30%" alt="SUP2Ak's Dev Card"/></a>
+      
       <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/?username=SUP2Ak&theme=gotham&show_icons=true" />
       <img align="left" width="30%" position='flex' display='flex' src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=SUP2Ak&theme=gotham&layout=default&show_icons=true" />
 </div>
