@@ -31,8 +31,7 @@ ____
       <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/?username=SUP2Ak&theme=gotham&show_icons=true" />
 </div>
 <div align="center">
-    
-      <img align="left" width="30%"  src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=SUP2Ak&theme=gotham&layout=default&show_icons=true" />
+      <img align="left" width="30%" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=SUP2Ak&theme=gotham&layout=default&show_icons=true" />
 </div>
 
 ____
