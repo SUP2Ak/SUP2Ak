@@ -29,7 +29,6 @@ ____
 ____
          
 <div align="center" display='flex'>
-      
       <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/?username=SUP2Ak&theme=gotham&show_icons=true" />
       <img align="left" width="30%" position='flex' display='flex' src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=SUP2Ak&theme=gotham&layout=default&show_icons=true" />
 </div>
