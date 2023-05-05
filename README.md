@@ -22,21 +22,13 @@ ____
 📺 Follow my Youtube ! : https://www.youtube.com/SUPAAkHD
 
 ____
-
-<div align='right' display='flex'>
-      
-</div>
-      
-
-
-____
          
 <div align="center" display='flex'>
-      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/?username=SUP2Ak&theme=gotham&show_icons=true" /><a align="right" display='flex' position='right' href="https://app.daily.dev/SUP2Ak"><img src="https://api.daily.dev/devcards/daf15bdb03fc4f64ac7b98d6d3a4401f.png?r=mx2" width="30%" alt="SUP2Ak's Dev Card"/></a>
+     <img align="center" width="30%" position='flex' display='flex' src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=SUP2Ak&theme=gotham&layout=default&show_icons=true" /><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/?username=SUP2Ak&theme=gotham&show_icons=true" /><a align="right" display='flex' position='right' href="https://app.daily.dev/SUP2Ak"><img src="https://api.daily.dev/devcards/daf15bdb03fc4f64ac7b98d6d3a4401f.png?r=mx2" width="30%" alt="SUP2Ak's Dev Card"/></a>
       
 </div>
 <div align="center">
-      <img align="center" width="30%" position='flex' display='flex' src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=SUP2Ak&theme=gotham&layout=default&show_icons=true" />
+      
 </div>
 
 ____
