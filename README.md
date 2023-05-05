@@ -18,7 +18,9 @@ ____
 - Language I use : Lua, JavaScript, Html, TypeScript, C#
 - I’m currently learning C, C++, TypeScript
 
-<a align="right" display='absolute' position='right' href="https://app.daily.dev/SUP2Ak"><img src="https://api.daily.dev/devcards/daf15bdb03fc4f64ac7b98d6d3a4401f.png?r=mx2" width="30%" alt="SUP2Ak's Dev Card"/></a>
+<div align='right'>
+      <a align="right" display='absolute' position='right' href="https://app.daily.dev/SUP2Ak"><img src="https://api.daily.dev/devcards/daf15bdb03fc4f64ac7b98d6d3a4401f.png?r=mx2" width="30%" alt="SUP2Ak's Dev Card"/></a>
+</div>
 
 💻 Join my discord ! : https://discord.gg/hYCR2YKgxB
 
