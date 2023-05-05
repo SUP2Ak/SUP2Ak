@@ -31,7 +31,7 @@ ____
 </div>
 <div align="center">
     <a align="right" href="https://app.daily.dev/SUP2Ak"><img src="https://api.daily.dev/devcards/daf15bdb03fc4f64ac7b98d6d3a4401f.png?r=mx2" width="30%" alt="SUP2Ak's Dev Card"/></a>
-    <img align="left" width="30%" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=SUP2Ak&theme=gotham&layout=default&show_icons=true" />
+    <img align="left" width="30%" heigth="30%" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=SUP2Ak&theme=gotham&layout=default&show_icons=true" />
 </div>
 
 ____
