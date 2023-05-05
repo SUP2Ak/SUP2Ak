@@ -17,7 +17,7 @@ ____
 
 💻 Join my discord ! : https://discord.gg/hYCR2YKgxB
 
-📷 Follow my Twitch ! : https://www.twitch.tv/sup2ak_hd
+[📷 Follow my Twitch ](https://www.twitch.tv/sup2ak_hd)
 
 📺 Follow my Youtube ! : https://www.youtube.com/SUPAAkHD
 
