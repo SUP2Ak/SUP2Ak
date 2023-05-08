@@ -1,14 +1,23 @@
-[![](https://visitcount.itsvg.in/api?id=SUP2Ak&icon=5&color=0)](https://visitcount.itsvg.in)      
+<div>
+  <img align='left' src="https://visitcount.itsvg.in/api?id=SUP2Ak&icon=5&color=0" alt="Profile visit counter"/>
+</div>
+<br>
+<br>
+<div align="left">
+  <img src="https://github-stats-alpha.vercel.app/api?username=SUP2Ak&cc=20232a&tc=ffffff&ic=61dafb&bc=ffffff"/>
+</div>
+
+
+
 ____
 
 <h1 align="center">Hi, I'm SUP2Ak (soon update)</h1>
 
-
-<div align="center">
-  <a align="center" href="https://discords.com/bio/p/sup2ak" target="_blank">
-    <img align="center" src="https://discord.c99.nl/widget/theme-3/813886677142994994.png"/>
-  </a>
+<div align='center'>
+  <a href="https://discords.com/bio/p/sup2ak" target="_blank"><img src="https://discord.c99.nl/widget/theme-3/813886677142994994.png" alt="Discord server"/></a>
 </div>
+
+
 
 - I'm french :fr:
 - I’m currently working on FiveM, Discord, Unity...
