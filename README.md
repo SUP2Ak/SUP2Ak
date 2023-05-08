@@ -7,28 +7,28 @@
   <img src="https://github-stats-alpha.vercel.app/api?username=SUP2Ak&cc=20232a&tc=ffffff&ic=61dafb&bc=ffffff"/>
 </div>
 
-
-
 ____
 
-<h1 align="center">Hi, I'm SUP2Ak (soon update)</h1>
-
-<div align='center'>
+<div align='left'>
   <a href="https://discords.com/bio/p/sup2ak" target="_blank"><img src="https://discord.c99.nl/widget/theme-3/813886677142994994.png" alt="Discord server"/></a>
 </div>
 
+### About Me
 
+Hi, I'm SUP2Ak! :wave:
 
-- I'm french :fr:
-- I’m currently working on FiveM, Discord, Unity...
-- Language I use : Lua, JavaScript, Html, TypeScript, C#
-- I’m currently learning C, C++, TypeScript
+- :fr: I'm French.
+- :computer: I'm currently working on a lot of projects, including FiveM and others.
 
-💻 Join my discord ! : https://discord.gg/hYCR2YKgxB
+### Connect with me:
 
-[📷 Follow my Twitch ](https://www.twitch.tv/sup2ak_hd)
+[<img align="left" alt="SUP2Ak | Discord" width="40px" src="https://img.icons8.com/color/48/000000/discord-logo--v1.png" />][discord] [<img align="left" alt="SUP2Ak | Twitch" width="40px" src="https://img.icons8.com/color/48/000000/twitch--v1.png" />][twitch] [<img align="left" alt="SUP2Ak | YouTube" width="40px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
 
-📺 Follow my Youtube ! : https://www.youtube.com/SUPAAkHD
+[discord]: https://discord.gg/hYCR2YKgxB
+[twitch]: https://www.twitch.tv/sup2ak_hd
+[youtube]: https://www.youtube.com/SUPAAkHD
+
+<br>
 
 ____
          
