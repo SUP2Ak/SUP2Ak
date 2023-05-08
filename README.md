@@ -49,10 +49,11 @@ ____
 <div align="center">
         <h2 align='center'>📊 GitHub Stats</h2>
         <img width='45%' src="https://github-readme-stats.vercel.app/api?username=SUP2Ak&theme=react&hide_border=false&include_all_commits=true&count_private=true"/>
-        <img width='45%' src="https://github-readme-streak-stats.herokuapp.com/?user=SUP2Ak&theme=react&hide_border=false"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUP2Ak&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+        
 </div>
 <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUP2Ak&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+        <img width='45%' src="https://github-readme-streak-stats.herokuapp.com/?user=SUP2Ak&theme=react&hide_border=false"/>
 </div>
 
 ____
