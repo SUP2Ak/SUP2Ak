@@ -24,7 +24,7 @@ Hi, I'm SUP2Ak! :wave:
 
 [<img align="left" alt="SUP2Ak | Discord" width="40px" src="https://img.icons8.com/color/48/000000/discord-logo--v1.png" />][discord] [<img align="left" alt="SUP2Ak | Twitch" width="40px" src="https://img.icons8.com/color/48/000000/twitch--v1.png" />][twitch] [<img align="left" alt="SUP2Ak | YouTube" width="40px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
 
-[discord]: https://discord.gg/hYCR2YKgxB
+[discord]: https://discord.gg/B6Z5VbA5wd
 [twitch]: https://www.twitch.tv/sup2ak_hd
 [youtube]: https://www.youtube.com/SUPAAkHD
 
