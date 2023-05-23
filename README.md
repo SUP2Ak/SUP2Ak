@@ -5,7 +5,7 @@
 <br>
 <div align="left">
   <img src="https://github-stats-alpha.vercel.app/api?username=SUP2Ak&cc=20232a&tc=ffffff&ic=61dafb&bc=ffffff"/>
-  <img width="300" alt="BACKGROUND SUBLIME" src="https://raw.githubusercontent.com/SUP2Ak/logo-banner/main/supv_gif.gif" />
+  <img width="190" alt="BACKGROUND SUBLIME" src="https://raw.githubusercontent.com/SUP2Ak/logo-banner/main/supv_gif.gif" />
 </div>
 
 ____
