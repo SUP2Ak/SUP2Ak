@@ -58,7 +58,7 @@ ____
 
 <div align="center">
         <h2 align='center'>📊 GitHub Stats</h2>
-        <img width='45%' src="https://github-readme-stats.vercel.app/api?username=SUP2Ak&layout=compact&theme=react&hide_border=true&show_icons=true"/>
+        <img width='45%' src="https://github-readme-stats.vercel.app/api?username=SUP2Ak&layout=compact&theme=react&hide_border=true&show_icons=true&include_all_commits=true"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUP2Ak&theme=react&hide_border=false&include_all_commits=true&layout=compact"/>
         
 </div>
