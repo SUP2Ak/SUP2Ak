@@ -37,7 +37,7 @@ ____
       <h2>💻 Tech Stack:</h2>
       <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 1rem;">
             <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="C logo" />
-            <img src="https://img.shields.io/badge/cplusplus-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="CPP logo" />
+            <img alt="Static Badge" src="https://img.shields.io/badge/cpp-cpp?style=plastic&logo=cplusplus&labelColor=purple&color=purple" />
             <img src="https://img.shields.io/badge/c%23-c%23?style=plastic&logo=csharp" />
             <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript logo" />
             <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" alt="TypeScript logo" />
