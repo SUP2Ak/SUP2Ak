@@ -62,9 +62,11 @@ ____
         <img width='45%' src="https://github-readme-stats.vercel.app/api?username=SUP2Ak&layout=compact&theme=react&hide_border=true&show_icons=true"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUP2Ak&theme=react&hide_border=false&include_all_commits=true&layout=compact"/>
         
+        
 </div>
 <div align="center">
         <img width='45%' src="https://github-readme-streak-stats.herokuapp.com/?user=SUP2Ak&theme=react&hide_border=false"/>
+        <img width='60%' src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUP2Ak&theme=react"/>
 </div>
 
 ____
