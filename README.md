@@ -19,7 +19,7 @@ ____
 Hi, I'm SUP2Ak! :wave:
 
 - :fr: I'm French.
-- :computer: I'm currently working on a lot of projects, including FiveM and others.
+- :computer: I'm currently working on a lot of projects, including [FiveM](https://github.com/supv-cfx) and others.
 
 ### Connect with me:
 
