@@ -75,22 +75,3 @@ ____
         <h3 align='center'>🏆 GitHub Trophies</h3>
         <img width="80%" src="https://github-profile-trophy.vercel.app/?username=SUP2Ak&theme=discord&no-frame=false&no-bg=true&margin-w=4"/>
 </div>
-
-____
-
-<div align="center">
-        <h3 align='center'>🔝 Top repo</h3>
-        <img width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=SUP2Ak&theme=react&repo=supv_core"/>
-        <img width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=SUP2Ak&theme=react&repo=BoilerPlate-ReactTs-Electron"/>
-        <img width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=SUP2Ak&theme=react&repo=boilerplate-botdiscord-typescript"/>
-        <img width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=SUBLiME-Association&theme=react&repo=sublime_core"/>
-</div>
-<div align="center">
-        <img width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=SUP2Ak&theme=react&repo=ClearCache"/>
-</div>
-
-
-<div align="center">
-      <h3 align='center'>🔝 Top Contributed Repo</h3>
-      <img src="https://github-contributor-stats.vercel.app/api?username=SUP2Ak&limit=5&theme=react&combine_all_yearly_contributions=true"/>
-</div>
