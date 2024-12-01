@@ -36,6 +36,7 @@ ____
 <div align="center"> 
       <h2>💻 Tech Stack:</h2>
       <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 1rem;">
+            <img src="https://img.shields.io/badge/Rust-%23B7410E.svg?style=plastic&logo=rust&logoColor=white" alt="Rust logo" />
             <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="C logo" />
             <img alt="Static Badge" src="https://img.shields.io/badge/cpp-cpp?style=plastic&logo=cplusplus&labelColor=purple&color=purple" />
             <img src="https://img.shields.io/badge/c%23-c%23?style=plastic&logo=csharp" />
@@ -49,6 +50,7 @@ ____
             <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" alt="NodeJS logo" />
             <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="React logo" />
             <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=plastic&logo=svelte&logoColor=white" alt="Svelte logo" />
+            <img src="https://img.shields.io/badge/Slint-%2387CEEB.svg?style=plastic&logo=slint" alt="Slint logo" />  
             <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white" alt="Yarn logo" />
             <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white" alt="MariaDB logo" />
             <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB logo" />
