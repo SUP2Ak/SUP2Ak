@@ -39,7 +39,7 @@ ____
             <img src="https://img.shields.io/badge/Rust-%23B7410E.svg?style=plastic&logo=rust&logoColor=white" alt="Rust logo" />
             <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="C logo" />
             <img alt="Static Badge" src="https://img.shields.io/badge/cpp-cpp?style=plastic&logo=cplusplus&labelColor=purple&color=purple" />
-            <img src="https://img.shields.io/badge/c%23-c%23?style=plastic&logo=csharp" />
+            <img src="https://img.shields.io/badge/C%23%20csharp-%23239120.svg?style=plastic alt="C# logo" />
             <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript logo" />
             <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" alt="TypeScript logo" />
             <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white" alt="Lua logo" />
