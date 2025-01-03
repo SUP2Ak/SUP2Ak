@@ -1,17 +1,10 @@
 <div>
+  <h2 align='center'>🙋‍♂️​ Info</h2>
   <img align='left' src="https://visitcount.itsvg.in/api?id=SUP2Ak&icon=5&color=0" alt="Profile visit counter"/>
-</div>
-<br>
-<br>
-<div align="left">
-  <img src="https://github-stats-alpha.vercel.app/api?username=SUP2Ak&cc=20232a&tc=ffffff&ic=61dafb&bc=ffffff"/>
-  <img width="190" alt="BACKGROUND SUBLIME" src="https://raw.githubusercontent.com/SUP2Ak/logo-banner/main/supv_gif.gif" />
-</div>
-
-____
-
-<div align='left'>
-  <a href="https://discords.com/bio/p/sup2ak" target="_blank"><img src="https://discord.c99.nl/widget/theme-3/813886677142994994.png" alt="Discord server"/></a>
+  <br/>
+  <div align='left'>
+    <a href="https://discords.com/bio/p/sup2ak" target="_blank"><img src="https://discord.c99.nl/widget/theme-3/813886677142994994.png" alt="Discord server"/></a>
+  </div>
 </div>
 
 ### About Me
@@ -25,14 +18,10 @@ Hi, I'm SUP2Ak! :wave:
 
 [<img align="left" alt="SUP2Ak | Discord" width="40px" src="https://img.icons8.com/color/48/000000/discord-logo--v1.png" />][discord] [<img align="left" alt="SUP2Ak | Twitch" width="40px" src="https://img.icons8.com/color/48/000000/twitch--v1.png" />][twitch] [<img align="left" alt="SUP2Ak | YouTube" width="40px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
 
-[discord]: https://discord.gg/B6Z5VbA5wd
-[twitch]: https://www.twitch.tv/sup2ak_hd
-[youtube]: https://www.youtube.com/SUPAAkHD
+- [discord]: https://discord.gg/B6Z5VbA5wd
+- [twitch]: https://www.twitch.tv/sup2ak_hd
+- [youtube]: https://www.youtube.com/SUPAAkHD
 
-<br>
-
-____
-         
 <div align="center"> 
       <h2>💻 Tech Stack:</h2>
       <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 1rem;">
@@ -56,24 +45,7 @@ ____
             <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB logo" />
       </div>
 </div>
-
-____
-
-<div align="center">
-        <h2 align='center'>📊 GitHub Stats</h2>
-        <img width='45%' src="https://github-readme-stats.vercel.app/api?username=SUP2Ak&layout=compact&theme=react&hide_border=true&show_icons=true"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUP2Ak&theme=react&hide_border=false&include_all_commits=true&layout=compact"/>
-        
-        
-</div>
-<div align="center">
-        <img width='45%' src="https://github-readme-streak-stats.herokuapp.com/?user=SUP2Ak&theme=react&hide_border=false"/>
-        <img width='60%' src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUP2Ak&theme=react"/>
-</div>
-
-____
-
-<div align="center">
-        <h3 align='center'>🏆 GitHub Trophies</h3>
-        <img width="80%" src="https://github-profile-trophy.vercel.app/?username=SUP2Ak&theme=discord&no-frame=false&no-bg=true&margin-w=4"/>
-</div>
+<br/>
+<picture>
+  <img alt="profile-3d" src="./profile-3d-contrib/profile-night-rainbow.svg">
+</picture>
