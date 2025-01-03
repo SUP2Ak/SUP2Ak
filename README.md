@@ -2,6 +2,7 @@
   <h2 align='center'>🙋‍♂️​ Info</h2>
   <img align='left' src="https://visitcount.itsvg.in/api?id=SUP2Ak&icon=5&color=0" alt="Profile visit counter"/>
   <br/>
+  <br/>
   <div align='left'>
     <a href="https://discords.com/bio/p/sup2ak" target="_blank"><img src="https://discord.c99.nl/widget/theme-3/813886677142994994.png" alt="Discord server"/></a>
   </div>
