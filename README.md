@@ -50,5 +50,5 @@ Hi, I'm SUP2Ak! :wave:
 </div>
 <br/>
 <picture>
-  <img alt="profile-3d" src="./profile-3d-contrib/profile-night-rainbow.svg">
+  <img alt="profile-3d" src="./profile-3d-contrib/profile-custom-rainbow.svg">
 </picture>
