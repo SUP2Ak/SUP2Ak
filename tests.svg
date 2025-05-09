@@ -1,3 +1,6 @@
+<svg width="100%" height="100%" viewBox="0 0 64 20" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
 
 
 
@@ -6,91 +9,79 @@
 
 
 
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&amp;display=swap');
+            @keyframes textGlow {
+
+                0%,
+                100% {
+                    filter: drop-shadow(0 0 1px rgba(255, 255, 255, 0.4));
+                }
+
+                50% {
+                    filter: drop-shadow(0 0 3px rgba(255, 255, 255, 0.9));
+                }
+            }
+
+            .text-animation {
+                animation: textGlow 2s infinite;
+                transform-origin: center;
+                font-family: "Montserrat, sans-serif";
+                font-weight="600"
+            }
+        </style>
+
+
+        <style>
+
+        </style>
+
+
+
+        <style>
+            @keyframes logoPulse {
+
+                0%,
+                100% {
+                    transform: scale(1);
+                }
+
+                50% {
+                    transform: scale(1.1);
+                }
+            }
+
+            .logo-animation {
+                animation: logoPulse 2s infinite;
+                transform-origin: center;
+            }
+        </style>
+
+
+    </defs>
+
+
+    <rect class="container-animation" fill="#555555" x="0" y="0" width="64" height="20" rx="3" />
 
 
 
 
+    <g transform="translate(0,0)">
 
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-  
-  
-  
-
-
-
-
-<svg width="100%" height="100%" viewBox="0 0 64 20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs>
-    
-    
-    
-    
-    
-
-    
-    
-    <style>
-      @keyframes textGlow {
-        0%, 100% { filter: drop-shadow(0 0 1px rgba(255,255,255,0.4)); }
-        50% { filter: drop-shadow(0 0 3px rgba(255,255,255,0.9)); }
-      }
-      .text-animation {
-        animation: textGlow 2s infinite;
-        transform-origin: center;
-      }
-    </style>
-    
-    
-    
-
-    
-    
-    <style>
-      @keyframes logoPulse {
-        0%, 100% { transform: scale(1); }
-        50% { transform: scale(1.1); }
-      }
-      .logo-animation {
-        animation: logoPulse 2s infinite;
-        transform-origin: center;
-      }
-    </style>
-    
-    
-  </defs>
-
-  
-  <rect class="container-animation" fill="#555555" x="0" y="0" width="64" height="20" rx="3"/>
-  
-  
-
-  
-  <g transform="translate(0,0)">
-    
-      <g transform="translate(6,2)">
-        <g class="logo-animation" style="transform-origin: 8px 8px;">
-          <image width="16" height="16" href="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" preserveAspectRatio="xMidYMid meet"/>
+        <g transform="translate(6,2)">
+            <g style="transform-origin: 8px 8px;">
+                <image width="16" height="16"
+                    href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDBDNS4zNzQgMCAwIDUuMzczIDAgMTJjMCA1LjMwMiAzLjM4OCA5LjggOC4yMDcgMTEuMzg3LjU5OS4xMTEuNzkzLS4yNi43OTMtLjU3NyAwLS4yODctLjAxMS0xLjA0LS4wMTUtMi4wNC0zLjMzOC43MjQtNC4wNDItMS42MS00LjA0Mi0xLjYxQzQuNDIyIDE4LjA3IDMuNjMzIDE3LjcgMy42MzMgMTcuN2MtMS4wODctLjc0NC4wODQtLjcyOS4wODQtLjcyOSAxLjIwNS4wODQgMS44MzggMS4yMzYgMS44MzggMS4yMzYgMS4wNyAxLjgzNSAyLjc3OSAxLjMwNSAzLjQ3NS45OTguMTA4LS43NzYuNDE3LTEuMzA1Ljc2LTEuNjA1LTIuNjY1LS4zLTUuNDY2LTEuMzMyLTUuNDY2LTUuOTMgMC0xLjMxLjQ2NS0yLjM4IDEuMjM1LTMuMjItLjEyNS0uMzAzLS41NC0xLjUyMy4xMTctMy4xNzYgMCAwIDEuMDA4LS4zMjIgMy4zOTUgMS4yM0E5LjUwOSA5LjUwOSAwIDAgMTIgNi44MDRjMy4wMiAwIDQuNDc4LjQxNyA1LjYwNSAxLjIzQzE5LjM4IDUuMjggMjAuMzg4IDUuNiAyMC4zODggNS42Yy42NTggMS42NTMuMjQyIDIuODc0LjExOCAzLjE3Ni43NzUuODQgMS4yMyAxLjkxIDEuMjMgMy4yMiAwIDQuNjEtMi44MDUgNS42MjUtNS40NzYgNS45Mi40Mi4zNi44MSAxLjA5Ni44MSAyLjIyNiAwIDEuNjA2LS4wMTUgMi44OTYtLjAxNSA1LjI2IDAgNy41MjctMy4zODcgNy41MjctNy41MjdDMjQgNS4zNzMgMTguNjI2IDAgMTIgMHoiLz48L3N2Zz4="
+                    preserveAspectRatio="xMidYMid meet" />
+            </g>
         </g>
-      </g>
-    
-    <g transform="translate(28,0)">
-      <text class="text-animation" x="15" y="15" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" fill="#ffffff">build</text>
-    </g>
-  </g>
 
-  
-  
-</svg> 
+        <g transform="translate(28,0)">
+            <text class="text-animation" x="15" y="15" text-anchor="middle"
+                font-family="Montserrat, sans-serif" font-size="11" fill="#ffffff">build</text>
+        </g>
+    </g>
+
+
+
+</svg>
