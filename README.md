@@ -1,4 +1,8 @@
 <div>
+  <img src='./tests.svg' width='60px' height="30px" />
+</div>
+
+<div>
   <h2 align='center'>🙋‍♂️​ Info</h2>
   <img align='left' src="https://visitcount.itsvg.in/api?id=SUP2Ak&icon=5&color=0" alt="Profile visit counter"/>
   <br/>
