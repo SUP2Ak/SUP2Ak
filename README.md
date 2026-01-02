@@ -50,5 +50,7 @@ Hi, I'm SUP2Ak! :wave:
 </div>
 <br/>
 
-[!](https://github.com/SUP2Ak/SUP2Ak/blob/main/profile-3d-contrib/profile-custom-rainbow.svg)
+[<img align="left" alt="SUP2Ak | 3d_contrib" src="[https://img.icons8.com/color/48/000000/discord-logo--v1.png](https://github.com/SUP2Ak/SUP2Ak/blob/main/profile-3d-contrib/profile-custom-rainbow.svg)" />][3d_contrib]
+
+[3d_contrib](https://github.com/SUP2Ak/SUP2Ak/blob/main/profile-3d-contrib/profile-custom-rainbow.svg)
 
