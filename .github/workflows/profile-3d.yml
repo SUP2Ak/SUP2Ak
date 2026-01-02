@@ -18,7 +18,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.D3_TOKEN_README }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: https://github.com/SUP2Ak/SUP2Ak/blob/main/conf/github-profile-3d-contrib.json
+          SETTING_JSON: conf/github-profile-3d-contrib.json
           MAX_REPOS: 500
       - name: Commit & Push
         run: |
