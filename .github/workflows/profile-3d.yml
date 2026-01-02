@@ -18,6 +18,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.D3_TOKEN_README }}
           USERNAME: ${{ github.repository_owner }}
+          SETTINGS: https://github.com/SUP2Ak/SUP2Ak/blob/main/conf/github-profile-3d-contrib.json
       - name: Commit & Push
         run: |
           git config user.name github-actions
