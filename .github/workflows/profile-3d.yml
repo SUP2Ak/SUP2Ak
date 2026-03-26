@@ -7,9 +7,9 @@ on:
 
 permissions:
   contents: write
-
 jobs:
   build:
+    if: github.ref == 'refs/heads/b'
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
