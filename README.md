@@ -1,27 +1,40 @@
-## Wesley | System Architect & Developer
+## Wesley | Systems Engineer & Software Developer
 
-I build high-performance systems and robust architectures across the full stack. I focus on architectural integrity, memory efficiency, and zero-dependency software. I love understanding how a system works and pushing it to its absolute limits.
-
----
-
-### Expertise
-- **System Architecture:** Designing robust, scalable, and maintainable software foundations.
-- **Performance Optimization:** Efficient algorithms, low-level logic, and resource management.
-- **Full-Stack Capability:** Proficient in modern frontend (React) and backend environments, ensuring seamless and efficient interfacing.
-- **Language Polyglot:** Deep experience with Lua, TypeScript (Node.js/Bun), Rust, and C.
-
-### Methodology
-- **AI-Augmented Engineering:** I use AI to bypass the boilerplate and turn complex architectural visions into reality at high velocity.
-- **Rigorous Auditing:** Every line is manually reviewed, refactored, and audited. I control the architecture; the AI assists the execution.
-- **Design First:** Data structures and system limits are defined before implementation.
-
-### Values
-- **Zero-Dependency:** Minimalist approach to reduce overhead and supply-chain risks.
-- **Exhaustive Benchmarking:** Performance is not a guess; it's measured and documented.
-- **Longevity:** Building tools designed to last, not just follow trends.
+I build high-performance software systems with a strong focus on low-level design, backend architecture, and efficiency. I also work across the full stack when needed, with a preference for minimal and controlled frontend implementations.
 
 ---
 
-*When I'm not coding, I'm probably still thinking about how to optimize that one function I wrote three years ago.*
+### Focus
+- System architecture & backend design
+- Performance engineering (CPU, memory, latency)
+- Low-level systems programming (Rust, C, Lua)
+- Full-stack development (React / Node.js), lightweight frontend when required
+- Data systems & relational database design
 
-**Available for hire:** If you have a complex technical challenge or need high-performance architecture, contact me via my GitHub profile or [email](mailto:cormier.wesley@gmail.com).
+---
+
+### Stack
+Rust • C • Lua • TypeScript (Node.js / Bun) • React • SCSS / CSS Modules  
+Databases: PostgreSQL • MariaDB • SQLite
+
+---
+
+### Database Philosophy
+I focus on understanding database systems at the conceptual level rather than being tied to a specific implementation. This allows me to work efficiently across PostgreSQL, MariaDB, SQLite, and similar systems without friction.
+
+---
+
+### Approach
+- Design-first: constraints and data models defined before implementation
+- Measured performance: benchmarking over assumptions
+- Explicit systems: predictable behavior and clear boundaries
+- Technology-agnostic where possible, principle-driven everywhere
+
+---
+
+### Philosophy
+Keep systems simple, fast, and understandable. Complexity is a cost, not a feature.
+
+---
+
+*Still occasionally optimizing code I wrote years ago.*
